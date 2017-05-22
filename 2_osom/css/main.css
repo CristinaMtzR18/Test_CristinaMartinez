@@ -1,0 +1,125 @@
+  /*** GENERAL ***/
+.socialI{
+  width: 20px;
+  height: 20px;
+}
+.imovil{
+  width: 100%;
+}
+.imgModal{
+  height: 20em;
+  width: 10em;
+}
+footer a{
+  color: black;
+}
+
+.poss0{
+  position: 0 !important;
+}
+
+/*Hover deskop*/
+.bg-black{
+  background-color: #413B3B;
+}
+.bg-foto{
+  height: 20em;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+}
+.bg-foto .bg-black{
+  opacity: 0;
+}
+
+.bg-black:hover{
+  opacity: 0.7;
+}
+#foto1{
+  background: url("../img/des00.PNG");
+}
+#foto2{
+  background: url("../img/des01.PNG");
+}
+#foto3{
+  background: url("../img/des02.PNG");
+}
+#foto4{
+  background: url("../img/des03.PNG");
+}
+#foto5{
+  background: url("../img/des04.PNG");
+}
+#foto6{
+  background: url("../img/des05.PNG");
+}
+#foto7{
+  background: url("../img/des06.PNG");
+}
+#foto8{
+  background: url("../img/des07.PNG");
+}
+#foto9{
+  background: url("../img/des08.PNG");
+}
+#foto10{
+  background: url("../img/des09.PNG");
+}
+#foto11{
+  background: url("../img/des10.PNG");
+}
+#foto12{
+  background: url("../img/des11.PNG");
+}
+
+  /*** UTILIDADES ***/
+/*Letras*/
+.fwhite{
+  color: white;
+}
+/*Color de fondo*/
+.fBlack{
+  background-color: black !important;
+}
+
+.fgray{
+  background-color: #EBE6E6; 
+}
+
+/*Padding*/
+.pd-5{
+  padding: 5%;
+}
+
+.pd-2{
+  padding: 2%;
+}
+
+.ml-20{
+  margin-left: 20%;
+}
+
+/*Margin*/
+.m-2{
+  margin: 2%;
+}
+
+.m-5{
+  margin: 5%;
+}
+
+.mb-0{
+  margin-bottom: 0;
+}
+
+.mb-5{
+  margin-bottom: 5%;
+}
+
+.mgt-50{
+  margin-top: 50% !important;
+}
+
+.mgt-20{
+  margin-top: 20%;
+}
